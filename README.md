@@ -110,6 +110,6 @@ jupyter nbextension enable --py widgetsnbextension
 ---
 
 ## 👥 Kontributor & Lisensi
-- Dikembangkan untuk keperluan praktikum & tugas perkuliahan analisis spasial Sistem Informasi Geografis (SIG).
+- Dikembangkan untuk keperluan praktikum & tugas perkuliahan Analisis Data Spasial (ADS).
 - Dataset dan kode terbuka untuk keperluan studi akademik dan edukasi.
 
