@@ -58,6 +58,7 @@ Indikasi-Luas-Kebakaran/
 1. **Data Luas Kebakaran Hutan dan Lahan (`.xlsx`)**:
    - `luas-karhutla-provinsi.xlsx`: Luas karhutla per provinsi di Indonesia tahun 2018 s.d. 2026 (satuan Hektare/Ha).
    - `luas-karhutla-kota.xlsx`: Luas karhutla per kabupaten/kota di Indonesia tahun 2018 s.d. 2026 (satuan Hektare/Ha).
+   - Sumber: https://sipongi.gakkum.kehutanan.go.id/indikasi-luas-kebakaran
 2. **Data Spasial Batas Administrasi (`.geojson`)**:
    - **38 Provinsi Indonesia**: [denyherianto/indonesia-geojson-topojson-maps-with-38-provinces](https://github.com/denyherianto/indonesia-geojson-topojson-maps-with-38-provinces) (mencakup pemekaran DOB Papua).
    - **514 Kabupaten/Kota Indonesia**: [ardian28/GeoJson-Indonesia-38-Provinsi](https://github.com/ardian28/GeoJson-Indonesia-38-Provinsi) (diselaraskan dengan kode wilayah BPS/Kemendagri).
