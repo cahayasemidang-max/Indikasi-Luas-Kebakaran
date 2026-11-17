@@ -51,7 +51,7 @@ Indikasi-Luas-Kebakaran/
    - **38 Provinsi Indonesia**: [denyherianto/indonesia-geojson-topojson-maps-with-38-provinces](https://github.com/denyherianto/indonesia-geojson-topojson-maps-with-38-provinces).
    - **514 Kabupaten/Kota Indonesia**: [ardian28/GeoJson-Indonesia-38-Provinsi](https://github.com/ardian28/GeoJson-Indonesia-38-Provinsi).
 3. **Data Luas Kebakaran Hutan dan Lahan (`.xlsx`)**:
-   - `luas-karhutla-provinsi.xlsx` (38 Provinsi) & `luas-karhutla-kota.xlsx` (514 Kabupaten/Kota) tahun `2018`–`2026` (satuan Hektare/Ha).
+   - `luas-karhutla-provinsi.xlsx` (38 Provinsi) & `luas-karhutla-kota.xlsx` (514 Kabupaten/Kota) tahun `2018`–`2026` (satuan Hektare/Ha): https://sipongi.gakkum.kehutanan.go.id/indikasi-luas-kebakaran
 
 ---
 
